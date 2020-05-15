@@ -16,4 +16,5 @@ python train.py -a resnet18  -q DSQ --quan_bit 4  .../imagenet/
 After training 90 epochs, (2 days 5 hours) I got Acc@1 69.85
 
 Server: Europa, 4 GPU GeForce GTX 1080
+
 ![GitHub Logo](/dsq_no_quantize_input.png)
